@@ -20,7 +20,6 @@ class Page extends Base_Controller
 {
 	public function index()
 	{
-		//echo 'nimeia';
 		// Init the Page TagManager
 		TagManager_Page::init();
 	}
