@@ -81,7 +81,7 @@ if (defined('ENVIRONMENT'))
  *
  */
 	$system_path = 'system';
-
+	date_default_timezone_set('Asia/ShangHai');
 /*
  *---------------------------------------------------------------
  * APPLICATION FOLDER NAME
@@ -270,7 +270,7 @@ if (defined('ENVIRONMENT'))
 		exit("Your document root folder path does not appear to be set correctly. Please open the following file and correct this: ".SELF);
 
 	define('DOCPATH', $doc_path);
-	date_default_timezone_set('Asia/Shanghai');
+
 
 /*
  * --------------------------------------------------------------------
