@@ -22,6 +22,6 @@ $lang['button_read_more'] = 'Read More...';
 $lang['form_label_gender_male'] = 'Male';
 $lang['form_label_gender_female'] = 'Female';
 $lang['form_label_gender_unisex'] = 'Unisex';
-
+$lang['form_label_form_message'] = '';
 
 ?>
