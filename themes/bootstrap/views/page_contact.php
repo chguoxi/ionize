@@ -83,9 +83,9 @@
 
                         <!-- Input : Message -->
                         <div class="control-group<ion:form:contact:error:message is="true"> error</ion:form:contact:error:message>">
-                            <label class="control-label" for="form_message"><ion:lang key="form_label_message" /></label>
+                            <label class="control-label" for="message"><ion:lang key="form_label_message" /></label>
                             <div class="controls">
-                                <textarea name="form_message" class="span4" rows="7" placeholder="<ion:lang key="form_label_message" />"><ion:form:contact:field:message /></textarea>
+                                <textarea name="message" class="span4" rows="7" placeholder="<ion:lang key="form_label_message" />"><ion:form:contact:field:message /></textarea>
                                 <ion:form:contact:error:message tag="span" class="help-inline text-error" />
                             </div>
                         </div>
