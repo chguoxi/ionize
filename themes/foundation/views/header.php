@@ -67,15 +67,15 @@
 					<!--
 						Language Selector
 					-->
-					<ion:languages tag="ul" class="right">
+<!-- 					<ion:languages tag="ul" class="right"> -->
 
-						<li <ion:language:is_active> class="active"</ion:language:is_active>>
-							<a href="<ion:language:url />">
-								<ion:language:code />
-							</a>
-						</li>
+<!-- 						<li <ion:language:is_active> class="active"</ion:language:is_active>> -->
+<!-- 							<a href="<ion:language:url />"> -->
+<!-- 								<ion:language:code /> -->
+<!-- 							</a> -->
+<!-- 						</li> -->
 
-					</ion:languages>
+<!-- 					</ion:languages> -->
 
 					<!--
 						Navigation Menu
